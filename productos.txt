@@ -1,0 +1,6 @@
+140509|Falda negra|250.00|Ropa casual
+07032009|Tenis Vans negros|1500.00|Tenis casuales
+26102025|Sudadera Azul|600|Sudadera casual
+22112025|llavero|50|accesorios
+12052024|Pantalon Cargo negro|550.00|Ropa casual
+30400020|Sueter Tejido|70.00|Sueter casual

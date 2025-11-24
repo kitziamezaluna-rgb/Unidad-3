@@ -1,0 +1,5 @@
+llavero|50.0|2|100.0
+Pantalon Cargo negro|550.0|5|2750.0
+Sueter Tejido|70.0|2|140.0
+Sudadera Azul|600.0|1|600.0
+Tenis Vans negros|1500.0|2|3000.0

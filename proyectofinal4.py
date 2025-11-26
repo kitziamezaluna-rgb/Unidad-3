@@ -268,7 +268,16 @@ def abrir_reportes():
 # ACERCA DE
 # -------------------------
 def abrir_acerca_de():
-    messagebox.showinfo("Acerca de", "Punto de Venta de Ropa\nProyecto Escolar\nVersión 1.0")
+    mensaje = (
+        "Punto de Venta de Ropa\n"
+        "Proyecto escolar desarrollado para la asignatura de Programación.\n"
+        "Proyecto que permite registrar productos, realizar ventas y generar reportes.\n\n"
+        "Desarrollado por: Meza Luna Kitzia Sophia\n"
+        "CBTis 89 - 2025\n"
+        "Versión 1.0"
+    )
+    messagebox.showinfo("Acerca de", mensaje)
+
 
 
 # -------------------------
